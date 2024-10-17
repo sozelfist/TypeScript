@@ -81,6 +81,7 @@
   * [Bellman Ford](https://github.com/TheAlgorithms/TypeScript/blob/HEAD/graph/bellman_ford.ts)
   * [Bipartite Graph](https://github.com/TheAlgorithms/TypeScript/blob/HEAD/graph/bipartite_graph.ts)
   * [Dijkstra](https://github.com/TheAlgorithms/TypeScript/blob/HEAD/graph/dijkstra.ts)
+  * [Edmonds Karp](https://github.com/TheAlgorithms/TypeScript/blob/HEAD/graph/edmonds_karp.ts)
   * [Floyd Warshall](https://github.com/TheAlgorithms/TypeScript/blob/HEAD/graph/floyd_warshall.ts)
   * [Johnson](https://github.com/TheAlgorithms/TypeScript/blob/HEAD/graph/johnson.ts)
   * [Kosajaru](https://github.com/TheAlgorithms/TypeScript/blob/HEAD/graph/kosajaru.ts)
@@ -91,6 +92,7 @@
     * [Bellman Ford.Test](https://github.com/TheAlgorithms/TypeScript/blob/HEAD/graph/test/bellman_ford.test.ts)
     * [Bipartite Graph.Test](https://github.com/TheAlgorithms/TypeScript/blob/HEAD/graph/test/bipartite_graph.test.ts)
     * [Dijkstra.Test](https://github.com/TheAlgorithms/TypeScript/blob/HEAD/graph/test/dijkstra.test.ts)
+    * [Edmonds Karp.Test](https://github.com/TheAlgorithms/TypeScript/blob/HEAD/graph/test/edmonds_karp.test.ts)
     * [Floyd Warshall.Test](https://github.com/TheAlgorithms/TypeScript/blob/HEAD/graph/test/floyd_warshall.test.ts)
     * [Johnson.Test](https://github.com/TheAlgorithms/TypeScript/blob/HEAD/graph/test/johnson.test.ts)
     * [Kosajaru.Test](https://github.com/TheAlgorithms/TypeScript/blob/HEAD/graph/test/kosajaru.test.ts)
@@ -156,6 +158,8 @@
 
 ## Search
   * [Binary Search](https://github.com/TheAlgorithms/TypeScript/blob/HEAD/search/binary_search.ts)
+  * [Exponential Search](https://github.com/TheAlgorithms/TypeScript/blob/HEAD/search/exponential_search.ts)
+  * [Fibonacci Search](https://github.com/TheAlgorithms/TypeScript/blob/HEAD/search/fibonacci_search.ts)
   * [Interpolation Search](https://github.com/TheAlgorithms/TypeScript/blob/HEAD/search/interpolation_search.ts)
   * [Jump Search](https://github.com/TheAlgorithms/TypeScript/blob/HEAD/search/jump_search.ts)
   * [Linear Search](https://github.com/TheAlgorithms/TypeScript/blob/HEAD/search/linear_search.ts)
